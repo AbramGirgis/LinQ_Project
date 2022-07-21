@@ -16,7 +16,8 @@ namespace LinQ_Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLinQ());
+            //Application.Run(new frmLinQ());
+            Application.Run(new frmLinQDatabase());
         }
     }
 }

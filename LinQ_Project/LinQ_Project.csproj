@@ -64,6 +64,9 @@
     <EmbeddedResource Include="frmLinQ.resx">
       <DependentUpon>frmLinQ.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLinQDatabase.resx">
+      <DependentUpon>frmLinQDatabase.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
